@@ -2,8 +2,8 @@
 
 Let's create a simple tic tac toe game in JavaScript.
 
-_We are going to use HTML to create the game board, CSS to create the game board's style, and use JavaScript to control the game.
-There are many different types of games we have. The mobile game, desktop games, web games, etc. Here we are going to create a web game that can be played on the web using the browser._
+_I used HTML to create the game board,
+CSS to create the game board's style, and use JavaScript to control the game._
 
 `❌❌❌ 
 ⭕⭕⭕`
@@ -14,7 +14,26 @@ Players get their own symbol, either X or O. They have to fill in a square with 
 
 The goal of the game is to get three in a row. The first player to get three in a row wins.
 
-For a quick look here is our tic tac toe game:
+##Let’s break down the user interface:
+
+`3x3 grid
+
+the grid should be clickable
+
+the grid cells should have the correct player sign displayed an information display
+
+should display a message informing the current player it’s their turn
+
+should show us who won the game
+
+should show us if the game ended in a draw
+
+restart button
+
+will restart the entire game`
+
+### For a quick look here is our tic tac toe game:
+
 ![Screenshot 2022-06-24 182433](https://user-images.githubusercontent.com/89247662/175540202-42d32d54-2578-4db7-b763-1b7f3e362736.png)
 
 
