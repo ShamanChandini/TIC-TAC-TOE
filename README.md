@@ -1,5 +1,7 @@
 # TIC-TAC-TOE
 
+> https://shamanchandini.github.io/TIC-TAC-TOE/
+
 Let's create a simple tic tac toe game in JavaScript.
 
 _I used HTML to create the game board,
