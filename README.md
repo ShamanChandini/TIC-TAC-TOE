@@ -6,6 +6,7 @@ _We are going to use HTML to create the game board, CSS to create the game board
 There are many different types of games we have. The mobile game, desktop games, web games, etc. Here we are going to create a web game that can be played on the web using the browser._
 
 `❌❌❌
+
 ⭕⭕⭕`
 
 Tic Tac Toe is a simple well known game. It is played by two players on a 3x3 grid.
