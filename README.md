@@ -30,3 +30,7 @@ To start with writing logic for the game first take an overview of what we are g
 >Onclick cells will call a function that will assign the value to the cell, change the turn, store the value in the array board and check if the player won or not.
 
 >If the player won then show the result and disable all the cells.
+
+## Image after winning
+![Screenshot 2022-06-24 182605](https://user-images.githubusercontent.com/89247662/175540470-d9cd5b4c-a831-40d9-965d-07d6a702a06f.png)
+
