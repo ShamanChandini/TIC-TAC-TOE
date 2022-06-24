@@ -16,8 +16,7 @@ The goal of the game is to get three in a row. The first player to get three in 
 
 ## Let’s break down the user interface:
 
-`
-3x3 grid
+`3x3 grid
 
 the grid should be clickable
 
@@ -31,8 +30,7 @@ should show us if the game ended in a draw
 
 restart button
 
-will restart the entire game
-`
+will restart the entire game`
 
 ### For a quick look here is our tic tac toe game:
 
